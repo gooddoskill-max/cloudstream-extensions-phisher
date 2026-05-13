@@ -22,7 +22,7 @@ import javax.crypto.spec.IvParameterSpec
 import javax.crypto.spec.SecretKeySpec
 
 class HdStream4u : VidHidePro() {
-    override var mainUrl = "https://hdstream4u.com"
+    override var mainUrl = "https://new1.hdhub4u.limo"
 }
 
 open class VidStack : ExtractorApi() {
