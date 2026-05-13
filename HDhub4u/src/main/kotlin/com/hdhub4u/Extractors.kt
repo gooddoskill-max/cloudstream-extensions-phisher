@@ -25,6 +25,8 @@ class HdStream4u : VidHidePro() {
     override var mainUrl = "https://new1.hdhub4u.limo"
 }
 
+//update
+
 open class VidStack : ExtractorApi() {
     override var name = "Vidstack"
     override var mainUrl = "https://vidstack.io"
